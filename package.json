@@ -49,7 +49,7 @@
         "nonce": "*",
         "redis": "*",
         "request": "*",
-        "statum-pool": "get+https://github.com/glencjones/node-stratum-pool.git"
+        "stratum-pool": "get+https://github.com/glencjones/node-stratum-pool.git"
     },
     "engines": {
         "node": "*"
