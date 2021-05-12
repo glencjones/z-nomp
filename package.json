@@ -44,6 +44,7 @@
         "express": "*",
         "extend": "*",
         "mysql": "*",
+        "node": "^16.1.0",
         "node-json-minify": "*",
         "node-watch": "*",
         "nonce": "*",
